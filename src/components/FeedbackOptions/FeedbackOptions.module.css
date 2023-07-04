@@ -1,26 +1,3 @@
-/* .feedbackList {
-  display: flex;
-  align-items: center;
-  gap: 30px;
-}
-
-.feedbackBtn {
-  padding: 20px;
-  cursor: pointer;
-  background-color: whitesmoke;
-  text-transform: capitalize;
-  border: 1px solid black;
-  border-radius: 10px;
-
-  transition: background-color 500ms ease-in-out;
-  transition: color 500ms ease-in-out;
-
-  &:hover {
-    color: white;
-    background-color: blue;
-  }
-} */
-
 .feedbackList {
   display: flex;
   align-items: center;
